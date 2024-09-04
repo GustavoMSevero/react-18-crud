@@ -1,0 +1,11 @@
+
+{
+    "fruit": [
+        {
+            "id": 1,
+            "name": "apples",
+            "quantity": 2,
+            "cost": 200
+        }
+    ] 
+}
